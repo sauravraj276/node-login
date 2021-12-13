@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sauravraj276/node-login/issues"
   },
-  "homepage": "https://github.com/sauravraj276/node-login#readme"
+  "homepage": "https://github.com/sauravraj276/node-login#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  }
 }
